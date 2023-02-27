@@ -15,8 +15,7 @@ parallel = true
 [default.deploy]
 [default.deploy.parameters]
 capabilities = "CAPABILITY_IAM"
-confirm_changeset = true
-
+confirm_changeset = false
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-uksrfvl74tfo"
 s3_prefix = "sam-app"
 region = "us-east-1"
