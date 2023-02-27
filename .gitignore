@@ -216,6 +216,9 @@ venv.bak/
 !.vscode/extensions.json
 .history
 
+### VisualStudio auto generated file ###
+*.vsidx
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
